@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "credits_left": 100,
+  "rate_limit_left": 100,
+  "person": {
+    "publicIdentifier": "tonijwilliams",
+    "linkedInIdentifier": "ACoAAA3ncuABbZoFtCMgLn3Gs8NDy3WeK0mI_Wo",
+    "memberIdentifier": "233272032",
+    "linkedInUrl": "https://www.linkedin.com/in/tonijwilliams",
+    "firstName": "Toni",
+    "lastName": "Williams",
+    "headline": "Combining development proficiency with Data Science & UX Research: A developer's journey to human-centered solutions",
+    "location": "Marietta, Georgia, United States of America",
+    "summary": "I am in the process of transitioning over 20 years of IT Development experience along with a BS in Psychology and MS in Data Science to a career as a UX Researcher.  I recently completed UX Research certification at Interaction Design Foundation and a UX/UI Foundations program at Designlab.  I have a passion for the User Experience and want to use my professional experience and educational background to facilitate the creation of better products, solutions and designs.",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/C5603AQE-a7pQqmbnbw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517268890281?e=1752710400&v=beta&t=WTuuCD7aisOZJN3QnqgQBXvtsyUxLJs6yVZnz41wC6M",
+    "backgroundUrl": null,
+    "openToWork": true,
+    "premium": false,
+    "showVerificationBadge": true,
+    "creationDate": {
+      "month": 2,
+      "year": 2013
+    },
+    "followerCount": 215,
+    "positions": {
+      "positionsCount": 4,
+      "positionHistory": [
+        {
+          "title": "Principal AEM Expert Solutions Consultant",
+          "companyName": "Adobe",
+          "companyLocation": "Georgia, United States · Remote",
+          "description": "Lead and analyze discovery sessions with users and client stakeholders to understand their use cases, system requirements and pain points. Present findings to users, executive stakeholders, and Adobe’s product team.\n\nWork with product team to prioritize development of new product features and enhancements based on customer feedback, discovery sessions and customer interviews.\nUse of personalization tools to setup and conduct online A/B tests and rule-based targeting for applications and web sites.\n\nDevelop and present multi-solution architecture implementation plans to users and stakeholders that include Adobe Experience Cloud solutions - AEM (Sites, Assets and Forms), Adobe Target, and Adobe Analytics.\n\nArchitect and Develop Integrations between Marketing Cloud Solutions using Power Automate, Workfront Fusion and Adobe App Builder.",
+          "startEndDate": {
+            "start": {
+              "month": 12,
+              "year": 2019
+            },
+            "end": null
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_400_400/company-logo_400_400/0/1630645864762/adobe_logo?e=1752710400&v=beta&t=XXMoVPkShcaZ9xO-wZTMYs96B210eI28UHF5lFu1Cog",
+          "linkedInUrl": "https://www.linkedin.com/company/1480/",
+          "linkedInId": "1480"
+        },
+        {
+          "title": "Technical Architect",
+          "companyName": "Adobe",
+          "companyLocation": "Greater Atlanta Area",
+          "description": "Conduct in depth discovery sessions with users, subject matter experts and technical teams to understand user and systems requirements from a deeper technical prospective.  \n\nManagement of large scale projects with multiple developer resources.\n\nManaged team of developers to successfully delivery multi-million-dollar AEM Sites and Forms conversion project.\n\nDevelopment of custom JAVA components and OSGI\nBundles to extend the functionality of AEM forms and Sites\n\nWrite technical requirements documents based on discovery sessions, business and functional requirements that outline technical steps required to develop a system with the desired functionality and behaviors to satisfy user requirements and use cases.\nWork with users and subject matter experts to further define and clarify user stories.  \nConduct Scrum Sprint Planning sessions with development team.  \nWork with Q/A to plan and coordinate UAT testing.\n\nArchitected and developed San Francisco property tax portal referenced here: http://www.govtech.com/civic/SF-\nTax-Portal-Nets-Unprecedented-Filings.html",
+          "startEndDate": {
+            "start": {
+              "month": 5,
+              "year": 2016
+            },
+            "end": {
+              "month": 12,
+              "year": 2019
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_400_400/company-logo_400_400/0/1630645864762/adobe_logo?e=1752710400&v=beta&t=XXMoVPkShcaZ9xO-wZTMYs96B210eI28UHF5lFu1Cog",
+          "linkedInUrl": "https://www.linkedin.com/company/1480/",
+          "linkedInId": "1480"
+        },
+        {
+          "title": "Senior Software Engineer • Independent",
+          "companyName": "Self-employed",
+          "companyLocation": "Atlanta, Georgia, United States",
+          "description": "Development of custom applications using AEM, JAVA, HTML, Oracle, and other development technologies.\nManaged development teams to successfully delivery multi-solution applications. \nCreate and deliver architecture and integration diagrams.  Development of solution design documents and development plans.\n\nManaged team of 8 Adobe AEM Form developers to successfully deliver over 200 paper forms to digital/dynamic web forms during a 6 month period.\n\nDeveloped web based online systems to replace Mainframe applications. J2EE development using Struts\nframework, WebSphere Application Server, and Adabas Mainframe System. Interfaced with\nNatural/Adabas programs via Shadow Direct data broker, to send and receive data from the current\nMainframe system.\n\nRedesign and development of previous Data-Planet website using JAVA and JSP. Performed updates to\nexisting site and developed additional functionality for payment and article management systems.\n\nJSP and XML development utilizing JSTL tag library and JSP scripts, on JBoss Application Server. CMS\ndevelopment using Rhythmyx. Developed complex SQL statements and stored procedures in Oracle\nPL/SQL for applications Data Access Layer.\n\nArchitected, Designed and Developed Document Generation application to replace Natural Adabas application that generated Client Notices for Louisianan Department of Children and Family Services. The project was developed to retire Software AG's CON-FORM application, which is currently responsible for the formatting and creation of automated notices.",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2003
+            },
+            "end": {
+              "month": 5,
+              "year": 2016
+            }
+          },
+          "contractType": "Self-employed",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Self-employed"
+        },
+        {
+          "title": "Technical Consultant",
+          "companyName": "Accenture",
+          "companyLocation": "Atlanta, Georgia, United States · On-site",
+          "description": "Performed full life cycle development including requirements analysis, functional and technical design,\ndevelopment, JAD facilitation, testing, and implementation for Health Services Organizations. Implemented and developed Health Provider Portals, Consumer Portals, Group Enrollment Portals and Defined Contribution Strategies.\n\n\nDeveloped Group Enrollment Application for BCBS of Florida. Performed technical design and requirements analysis and insured business requirements complied with HIPAA. Led group of developers in JAVA data load and extraction utilities for DB2 Universal database. Functional requirements gathering utilizing RUP.\n\nDeveloped an Insurance Claims processing Intranet Application including technical and functional design and requirements analysis. Used WebSphere Application Server and Visual Age for JAVA and JSP\ndevelopment for J2EE compliant systems. Planned and estimated work for Credentialing Project.",
+          "startEndDate": {
+            "start": {
+              "month": 10,
+              "year": 2000
+            },
+            "end": {
+              "month": 10,
+              "year": 2002
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHDbmrSIZ2UdA/company-logo_400_400/company-logo_400_400/0/1723130689960/accenture_logo?e=1752710400&v=beta&t=gBkSO5wvQ7z8AsVbzBL4frlXkjtdMMs-2aKBWkPTP5o",
+          "linkedInUrl": "https://www.linkedin.com/company/1033/",
+          "linkedInId": "1033"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 5,
+      "educationHistory": [
+        {
+          "degreeName": "Post Graduate",
+          "fieldOfStudy": "Artificial Intelligence and Machine Learning",
+          "linkedInUrl": "https://www.linkedin.com/company/15101634/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGnL9PBLpEbHg/company-logo_400_400/company-logo_400_400/0/1631352515168?e=1752710400&v=beta&t=-1V3-k8Hxy-zZqV_RFwdFpry9-NsdgRmJO7K7KcLRBk",
+          "schoolName": "Texas McCombs School of Business",
+          "startEndDate": {
+            "start": {
+              "month": 2,
+              "year": 2024
+            },
+            "end": {
+              "month": 10,
+              "year": 2024
+            }
+          }
+        },
+        {
+          "degreeName": "Certificate in User Research",
+          "fieldOfStudy": "User Experience Research",
+          "linkedInUrl": "https://www.linkedin.com/company/15098063/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFaocJKpsJc3Q/company-logo_400_400/company-logo_400_400/0/1728056596901/the_interaction_design_foundation_logo?e=1752710400&v=beta&t=c844iz1BXqStFCTT3soUpusf2-4ChiGGmoP2Ts3ZKL4",
+          "schoolName": "IxDF - The Interaction Design Foundation",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2022
+            },
+            "end": {
+              "month": 5,
+              "year": 2022
+            }
+          }
+        },
+        {
+          "degreeName": "UX/UI Foundations",
+          "fieldOfStudy": null,
+          "linkedInUrl": "https://www.linkedin.com/company/89842/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQG1DEJkNleCyA/company-logo_400_400/company-logo_400_400/0/1706725776501/designlab_logo?e=1752710400&v=beta&t=c2CL3c0u2-hpdDlcKh7nXnK3rwNgfjnw7Ikzr4Jxlz0",
+          "schoolName": "Designlab",
+          "startEndDate": {
+            "start": {
+              "month": 7,
+              "year": 2021
+            },
+            "end": {
+              "month": 11,
+              "year": 2022
+            }
+          }
+        },
+        {
+          "degreeName": "Master's degree",
+          "fieldOfStudy": "Data Science",
+          "linkedInUrl": "https://www.linkedin.com/company/15100279/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQGM_zFDIca_iQ/company-logo_400_400/company-logo_400_400/0/1630555201224/robinsoncollege_logo?e=1752710400&v=beta&t=UZWn5HOfXlnCJteV1RW6zkiEF69C-GUS3kEcKSA87jI",
+          "schoolName": "Georgia State University - J. Mack Robinson College of Business",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 1998
+            },
+            "end": {
+              "month": 1,
+              "year": 2000
+            }
+          }
+        },
+        {
+          "degreeName": "Bachelor of Science (BS)",
+          "fieldOfStudy": "Psychology",
+          "linkedInUrl": "https://www.linkedin.com/company/164771/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQEhy54pBgGE9g/company-logo_400_400/company-logo_400_400/0/1681160348853/louisiana_state_university_logo?e=1752710400&v=beta&t=T_cjHbue1sn03TXZ3OLzTJReCl6pyspMH7aeRZxh2NI",
+          "schoolName": "Louisiana State University",
+          "startEndDate": {
+            "start": {
+              "month": null,
+              "year": null
+            },
+            "end": null
+          }
+        }
+      ]
+    },
+    "skills": [
+      "LangChain",
+      "LangSmith",
+      "Microsoft Azure",
+      "Machine Learning MLOps",
+      "Web Development",
+      "Back-End Web Development",
+      "IBM Db2",
+      "Project Architecture",
+      "Web Application Development",
+      "Adobe Workfront",
+      "Workfront Fusion",
+      "Continuous Integration and Continuous Delivery (CI/CD)",
+      "TensorFlow",
+      "Convolutional Neural Networks (CNN)",
+      "Artificial Neural Networks",
+      "Data Processing",
+      "Random Forest",
+      "Hyperparameter Tuning",
+      "Machine Learning",
+      "Applied Machine Learning",
+      "Exploratory Data Analysis",
+      "Large Language Models (LLM)",
+      "Word Embeddings",
+      "Data Analysis",
+      "Git",
+      "GitHub",
+      "Pandas",
+      "NumPy",
+      "Python (Programming Language)",
+      "User Journeys",
+      "Functional Requirements",
+      "Technical Requirements Gathering",
+      "User Acceptance Testing",
+      "Discovery Process",
+      "Requirements Gathering",
+      "Card Sorting",
+      "Semi-structured Interviews",
+      "UX Research",
+      "User Requirements",
+      "User Experience Testing"
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "languagesWithProficiency": [
+      {
+        "language": "English",
+        "proficiency": "Native or bilingual proficiency"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Limited working proficiency"
+      }
+    ],
+    "recommendations": {
+      "recommendationsCount": 2,
+      "recommendationHistory": [
+        {
+          "caption": "April 18, 2019, Matt managed Toni directly",
+          "description": "Toni is not only technically strong with her AEM knowledge, but she also has the drive to continually learn and build upon her skills to keep up with new technology. Her passion for her work allows her to apply her expertise in a way that customers can truly realize the value of the products they are implementing. As a manager of the projects that Toni has worked on, I appreciate her capacity to think forwardly and question the strategy and reasoning behind the solutions we've implemented. I highly recommend Toni as an asset to any project team, as she is constantly thinking of ways to positively contribute.",
+          "authorFullname": "Matt Kim",
+          "authorUrl": "https://www.linkedin.com/in/omattkimo"
+        },
+        {
+          "caption": "July 20, 2018, Darren worked with Toni on the same team",
+          "description": "Toni is a very strong AEM developer, she brings expert development knowledge in AEM. Working on a development team with Toni she not only has the vision to forward think about new ideas, but helps other developers if they need help and always offers to contribute to the projects. I would recommend Toni on every AEM project because she’s focused on teamwork.",
+          "authorFullname": "Darren Chaney",
+          "authorUrl": "https://www.linkedin.com/in/darren-chaney-84011628"
+        }
+      ]
+    },
+    "certifications": {
+      "certificationsCount": 12,
+      "certificationHistory": [
+        {
+          "name": "Introduction to LangSmith",
+          "organizationName": "LangChain",
+          "organizationUrl": "https://www.linkedin.com/company/91342320/",
+          "issuedDate": "Issued Apr 2025"
+        },
+        {
+          "name": "Machine Learning Engineer with Microsoft Azure",
+          "organizationName": "Udacity",
+          "organizationUrl": "https://www.linkedin.com/company/2475568/",
+          "issuedDate": "Issued Apr 2025"
+        },
+        {
+          "name": "Azure ML Studio - Data Science on Cloud ",
+          "organizationName": "Great Learning",
+          "organizationUrl": "https://www.linkedin.com/company/9282020/",
+          "issuedDate": "Issued Mar 2025"
+        },
+        {
+          "name": "Microsoft Azure Data Scientist Associate (DP-100) Cert Prep: 1 Manage Azure Resources for Machine Learning",
+          "organizationName": "LinkedIn",
+          "organizationUrl": "https://www.linkedin.com/company/1337/",
+          "issuedDate": "Issued Feb 2025"
+        },
+        {
+          "name": " Introduction to Data Analysis with Pandas and NumPy",
+          "organizationName": "Udacity",
+          "organizationUrl": "https://www.linkedin.com/company/2475568/",
+          "issuedDate": "Issued Jan 2024"
+        },
+        {
+          "name": "Introduction to Version Control",
+          "organizationName": "Udacity",
+          "organizationUrl": "https://www.linkedin.com/company/2475568/",
+          "issuedDate": "Issued Jan 2024"
+        },
+        {
+          "name": "Programming for Data Science with Python",
+          "organizationName": "Udacity",
+          "organizationUrl": "https://www.linkedin.com/company/2475568/",
+          "issuedDate": "Issued Jan 2024"
+        },
+        {
+          "name": "Introduction to Python ",
+          "organizationName": "Udacity",
+          "organizationUrl": "https://www.linkedin.com/company/2475568/",
+          "issuedDate": "Issued Jan 2024"
+        },
+        {
+          "name": "User Research",
+          "organizationName": "IxDF - The Interaction Design Foundation",
+          "organizationUrl": "https://www.linkedin.com/company/15098063/",
+          "issuedDate": "Issued May 2022"
+        },
+        {
+          "name": "BigCommerce Essential Training",
+          "organizationName": "LinkedIn",
+          "organizationUrl": "https://www.linkedin.com/company/1337/",
+          "issuedDate": "Issued Jan 2019"
+        },
+        {
+          "name": "Marketing on Pinterest",
+          "organizationName": "LinkedIn",
+          "organizationUrl": "https://www.linkedin.com/company/1337/",
+          "issuedDate": "Issued Jan 2019"
+        },
+        {
+          "name": "SEO: Ecommerce",
+          "organizationName": "LinkedIn",
+          "organizationUrl": "https://www.linkedin.com/company/1337/",
+          "issuedDate": "Issued Jan 2019"
+        }
+      ]
+    },
+    "testScores": {
+      "testScoresCount": 0,
+      "testScoreHistory": []
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 0,
+      "volunteeringExperienceHistory": []
+    },
+    "interests": {}
+  },
+  "company": {
+    "linkedInId": "1480",
+    "name": "Adobe",
+    "universalName": "adobe",
+    "linkedInUrl": "https://www.linkedin.com/company/1480",
+    "employeeCount": 40003,
+    "followerCount": 4990442,
+    "employeeCountRange": {
+      "start": 10001,
+      "end": 1
+    },
+    "websiteUrl": "http://www.adobe.com",
+    "tagline": "Changing the world through digital experiences.",
+    "description": "Adobe is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone – from emerging artists to global brands – to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In short, Adobe is everywhere, and we’re changing the world through digital experiences.",
+    "industry": "Software Development",
+    "phone": null,
+    "specialities": [
+      "Software",
+      "Creative Cloud",
+      "Digital Marketing",
+      "Web Experience Management",
+      "Digital Media",
+      "Creative Suite",
+      "Digital Publishing",
+      "Photoshop",
+      "Online Analytics",
+      "Illustrator",
+      "Touch Apps",
+      "Acrobat",
+      "Mobile Apps",
+      "Social Marketing",
+      "Web Marketing",
+      "Social Measurement"
+    ],
+    "headquarter": {
+      "city": "San Jose",
+      "country": "US",
+      "postalCode": "95110-2704",
+      "geographicArea": "CA",
+      "street1": "345 Park Avenue",
+      "street2": null
+    },
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_400_400/company-logo_400_400/0/1630645864762/adobe_logo?e=1752710400&v=beta&t=XXMoVPkShcaZ9xO-wZTMYs96B210eI28UHF5lFu1Cog",
+    "foundedOn": {
+      "year": 1982
+    },
+    "fundingData": {
+      "numberOfFundingRounds": 1,
+      "crunchbaseOrganizationUrl": "https://www.crunchbase.com/organization/adobe-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta",
+      "lastFundingRound": {
+        "fundingType": "Series unknown",
+        "moneyRaised": {
+          "amount": "2500000",
+          "currencyCode": "USD"
+        },
+        "fundingRoundUrl": "https://www.crunchbase.com/funding_round/adobe-systems-series-unknown--4aeae4c2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=last_funding",
+        "announcedOn": "1984-10-01T00:00:00.000Z",
+        "numberOfOtherInvestors": 0,
+        "investorsUrl": "https://www.crunchbase.com/funding_round/adobe-systems-series-unknown--4aeae4c2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_investors",
+        "leadInvestors": [
+          {
+            "name": "Apple",
+            "url": "https://www.crunchbase.com/organization/apple?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=investor",
+            "image": "https://media.licdn.com/dms/image/sync/v2/D4D38AQHNtAuHvS1Jlw/crunchbase_investor_logo_100/crunchbase_investor_logo_100/0/1747245819353?e=1747857600&v=beta&t=z1N0EZc1nZwmcQy5W9DbBHaBY1MPOKwU8soc1PCfBgI"
+          }
+        ]
+      }
+    },
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/C561BAQGuFFCEyz1Mog/company-background_10000/company-background_10000/0/1590692085850/adobe_cover?e=1747857600&v=beta&t=jlVatBMuLevBD897RQN5vGXC4LwqK0l84A3Y-8osGcU"
+  }
+}
